@@ -1,8 +1,6 @@
 ## Project Overview
 
-A website designed to connect homeowners with reliable home service professionals. 
-It addresses the common challenges homeowners face when trying to find trustworthy and skilled professionals for jobs around the house.
-
+A simple website prototype designed to connect homeowners with reliable home service professionals. 
 
 ## Project Structure
 
